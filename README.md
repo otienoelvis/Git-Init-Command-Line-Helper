@@ -1,1 +1,1 @@
-# A Command Line Tool
+# Quickly set up a new git repository
